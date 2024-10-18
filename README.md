@@ -7,7 +7,7 @@ Aplicação API de trafegos
 - Java 21
 - Git
 - Docker
-- Insomnia
+- vs
 
 ## Build e execução
 
