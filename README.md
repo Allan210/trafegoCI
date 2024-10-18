@@ -9,6 +9,7 @@ Aplicação API de trafegos
 - Docker
 - vs
 - DBeaver(ou algum outro app que comporte o mysql)
+- Insomnia
 
 ## Build e execução
 
