@@ -8,12 +8,14 @@ Aplicação API de trafegos
 - Git
 - Docker
 - vs
+- DBeaver(ou algum outro app que comporte o mysql)
 
 ## Build e execução
 
 ```sh
 docker container run --name mysql-ms -p 3306:3306 -e MYSQL_ROOT_PASSWORD=1234 -d mysql:latest
 ```
+
 
 ## Testes unitários (validação)
 
