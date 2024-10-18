@@ -1,0 +1,26 @@
+# Trafegos API Java
+
+Aplicação API de trafegos
+
+## Pré-requisitos
+
+- Java 21
+- Git
+- Docker
+- Insomnia
+
+## Build e execução
+
+```sh
+docker container run --name mysql-ms -p 3306:3306 -e MYSQL_ROOT_PASSWORD=1234 -d mysql:latest
+```
+
+## Testes unitários (validação)
+
+./mvnw 
+
+## Documentação online (OpenAPI)
+
+Navegador Padrão
+http://localhost:8080/trafegos
+http://localhost:8080/trafegos/{numero}

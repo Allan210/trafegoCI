@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.fiap.trafegos.TrafegosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.919 s -- in br.com.fiap.trafegos.TrafegosApplicationTests
